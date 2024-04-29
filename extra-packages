@@ -33,3 +33,5 @@ zsh-pcre
 zsh-shift-select
 zsh-syntax-highlighting
 lf
+tree-sitter-cli
+nodejs
