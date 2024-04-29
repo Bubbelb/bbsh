@@ -21,7 +21,6 @@ trash-cli
 rsync
 gcc
 py3-pynvim
-nvim-lspconfig
 wl-clipboard
 zstd
 zsh-autosuggestions
