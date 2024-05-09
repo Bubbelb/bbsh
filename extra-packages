@@ -35,3 +35,5 @@ zsh-syntax-highlighting
 lf
 tree-sitter-cli
 nodejs
+npm
+yarn
