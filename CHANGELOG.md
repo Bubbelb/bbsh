@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Bubbelb/bbsh/compare/v1.0.0...v1.0.1) (2024-05-17)
+
+
+### Bug Fixes
+
+* Update example toolboxes link in README.md ([#71](https://github.com/Bubbelb/bbsh/issues/71)) ([ce94de0](https://github.com/Bubbelb/bbsh/commit/ce94de0852ca46bda4ecf4e4e8ff46f72a03167e))
+
 ## 1.0.0 (2024-05-09)
 
 
